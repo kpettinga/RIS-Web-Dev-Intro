@@ -1,1 +1,3 @@
-#Introduction to Web Development - HTML, CSS, and Javascript
+#Introduction to Web Development
+
+##HTML, CSS, and Javascript
